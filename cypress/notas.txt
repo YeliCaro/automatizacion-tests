@@ -1,0 +1,8 @@
+crear una carpeta vacia 
+ejecutar el comando npm init para que se cre el archivo package.json
+ejecutar el comando npm install cypress --save-dev para ejecutar cypress
+abrir cypres con npx cypress open configurarlo 
+instalar la dependencia npm install -D cypress @bahmutov/cypress-esbuild-preprocessor esbuild  
+instalar la dependencia λ npm install @badeball/cypress-cucumber-preprocessor --save-dev   
+configurar archivo .cypress-cucumber-preprocessorrc.json
+configurar archivo cypress.config.js
